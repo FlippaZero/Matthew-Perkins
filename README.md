@@ -1,26 +1,15 @@
 ## Languages and Tools: 
 - Microsoft Visual Studio 2022
 - Jetbrains Rider
+- Jetbrains Intellij
 - Cheat Engine 
-- IDA
 - x32dbg
 - C#
-- C++
 - Java
-- Golang (GO)
-- C
+- Go (to the point where i can make a calculator)
 
 ## Stats: 
 ![MatthewNevaLose GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewNevaLose&show_icons=true&theme=dracula) 
 
 ## How can I contact you?
-888wehttam#7331
-
-
-
-
-
-
-
-
-some of this stuff is fake i put it on here to look cool, lol!
+no
